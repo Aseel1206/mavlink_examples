@@ -127,7 +127,7 @@ def start_mission(the_connection):
 
 def main():
     connection_string = "172.17.160.1:14550"
-    waypoint_file_path = "C:/Users/dell/OneDrive/Desktop/aseelahmed_1_aen.waypoints"
+    waypoint_file_path = "waypoint.waypoints"
 
     # Connect to the vehicle
     the_connection = connect_vehicle(connection_string)
