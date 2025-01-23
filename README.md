@@ -1,4 +1,4 @@
-1.Take off\n
+1.Take off
   -change mode to guided
   -arm drone
   -set altitude to 10m
