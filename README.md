@@ -1,6 +1,6 @@
 <b>1. Take Off</b>
 
-  Perform a simple take-off and landing operation.
+  Perform a simple take-off and landing operation.<br>
 
   Steps:
 
@@ -10,11 +10,11 @@
 
   -Set Altitude: Command the drone to ascend to 10 meters.
 
-  -Land: Once the desired altitude is reached, initiate landing.
+  -Land: Once the desired altitude is reached, initiate landing.<br><br>
 
 <b>2. Circle</b>
 
-  Make the drone fly in a circular pattern.
+  Make the drone fly in a circular pattern.<br>
 
   Steps:
 
@@ -30,11 +30,11 @@
 
   -Calculate and set the waypoints for the circular path.
 
-  -Execute Command: Instruct the drone to perform 2 laps of the circle.
+  -Execute Command: Instruct the drone to perform 2 laps of the circle.<br><br>
 
 <b>3. Mission</b>
 
-  Plan and execute a mission with predefined waypoints.
+  Plan and execute a mission with predefined waypoints.<br>
 
   Steps:
 
@@ -52,4 +52,4 @@
   
   -Set Mode: Change the drone mode to AUTO.
   
-  -Start Mission: Begin the mission and monitor the drone as it follows the uploaded waypoints.
+  -Start Mission: Begin the mission and monitor the drone as it follows the uploaded waypoints.<br><br>
