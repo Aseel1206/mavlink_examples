@@ -1,3 +1,13 @@
+<h2>SITL Setup</h2><br><br>
+<b>Steps:</b><br>
+1. cd ardupilot<br>
+2. cd ArduCopter<br>
+3. ../Tools/autotest/sim_vehicle.py --map --console <br>
+4. ../Tools/autotest/sim_vehicle.py --map --console -l 13.0310227,77.5654036,925.640000,90 (Change home location)
+<br><br>
+
+
+<h2>Python Scripts</h2><br><br>
 <b>1. Take Off</b>
 
   Perform a simple take-off and landing operation.<br>
