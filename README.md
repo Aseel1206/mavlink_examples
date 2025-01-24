@@ -1,4 +1,4 @@
-1. Take Off
+<b>1. Take Off</b>
 
   Perform a simple take-off and landing operation.
 
@@ -12,7 +12,7 @@
 
   -Land: Once the desired altitude is reached, initiate landing.
 
-2. Circle
+<b>2. Circle</b>
 
   Make the drone fly in a circular pattern.
 
@@ -32,7 +32,7 @@
 
   -Execute Command: Instruct the drone to perform 2 laps of the circle.
 
-3. Mission
+<b>3. Mission</b>
 
   Plan and execute a mission with predefined waypoints.
 
